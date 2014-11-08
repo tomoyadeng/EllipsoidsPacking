@@ -1,0 +1,4 @@
+loop 1  edge = 100
+loop 2  edge = 9.654894e+01
+loop 3  edge = 9.321698e+01
+loop 4  edge = 9.000000e+01
